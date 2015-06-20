@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notification - appleWatcher WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>appleWatcher WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>appleWatcher.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>2D21C1611B328F350086DD78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D9186C61B337267009B50AC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
